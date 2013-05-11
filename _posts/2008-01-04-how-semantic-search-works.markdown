@@ -6,8 +6,7 @@ layout: post
 slug: how-semantic-search-works
 title: How semantic search works
 wordpress_id: 51
-categories:
-- search
+
 ---
 
 [ReadWrite Web](http://www.readwriteweb.com/) has a recent article on how semantic search works, [Semantic Search: Myth and Reality](http://www.readwriteweb.com/archives/semantic_search_the_myth_and_reality.php). The article points out that semantic search will not solve all our search problems, it's simply impossible. For those working with datasets, there will always be a great deal of cross-tabulation, manipulation (to reformat and present data) and manual work to be done to bring together answers to queries. Yes, semantic search might help save time in the initial stages of a query by giving more meaning to the terms we use to query with, but search is still, at its heart, a human construct and will always be open to interpretation and error. The article makes the important point that -

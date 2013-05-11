@@ -6,8 +6,7 @@ layout: post
 slug: reference-extract-%e2%80%93-another-librarian-powered-research-project
 title: Reference Extract – another librarian-powered research project
 wordpress_id: 92
-categories:
-- search
+
 ---
 
 Continuing on the theme of trust as a key component of the Semantic Web, and hot on the heels of Hakia's announcement that they would [seek help from librarians to build their search engine with credible websites](http://www.semanticlibrary.net/2008/10/07/web-credibility-and-the-semantic-web/), comes the announcement a few weeks ago of [Reference Extract](http://referencextract.org/), this time from inside the library world. This project is being headed by two well-known LIS academics, Mike Eisenberg and David Lankes, and is cooperatively developed by Syracuse University, the University of Washington and OCLC with grant funding from the John D. and Catherine T. MacArthur Foundation. I'm particularly interested in Lankes' involvement as he has spoken regularly about the concept of [participatory librarianship](http://ptbed.org/), and is interested in discoverability of library resources.

@@ -6,15 +6,13 @@ layout: post
 slug: in-the-trenches-with-project-management
 title: In the trenches with Project Management
 wordpress_id: 1510
-categories:
-- book review
 tags:
 - agile
 - lean
 - project management
 ---
 
-Earlier today, [I asked on Twitter](https://twitter.com/fiona_bradley/status/167562052997611520) whether other librarians considered Project Management certifications (eg, PRINCE2) worthwile, or if knowledge of frameworks was sufficient.
+Earlier today, [I asked on Twitter](https://twitter.com/fiona_bradley/status/167562052997611520) whether other librarians considered Project Management certifications (eg, PRINCE2) worthwhile, or if knowledge of frameworks was sufficient.
 
 I received a number of great responses from @sallyheroes, @janholmquist, @ahornby, @ellyob, @damyantipatel, @camcd, @aekins (thank you all!). In summary, some had been on training courses, but found certification quality to be variable. Others noted they wanted certification, but due to cost and other demands this hadn't been possible. And several shared that they thought experience and knowledge to be far more important overall.
 

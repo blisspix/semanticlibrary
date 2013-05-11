@@ -6,10 +6,6 @@ layout: post
 slug: extending-the-life-of-personal-technology
 title: Extending the life of personal technology
 wordpress_id: 1570
-categories:
-- accessibility
-- mobile web
-- tools
 ---
 
 A lot of my personal technology (desktop computer, laptop, mobile phone) is approaching end-of-life, at least according to the manufacturers. My laptop is not eligible for upgrade to OS 10.8 Mountain Lion, my phone stopped receiving updates almost as soon as I bought it, and other technology is generally slowing down. One of my criteria for purchasing technology is the expected lifespan. My previous iBook was still working perfectly when I sold it 6 years after purchase, but by then Apple had moved away from PPC. My old Nokia worked great but I switched to a smartphone when I bought an Android phone. Usually, software is the reason I have upgraded rather than any problems with the hardware. 

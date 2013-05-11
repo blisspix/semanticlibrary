@@ -6,9 +6,7 @@ layout: post
 slug: systemslayers-research-and-writing-workflow
 title: 'Systems/layers: research and writing workflow'
 wordpress_id: 1482
-categories:
-- research
-- tools
+
 ---
 
 Meredith has a [great post on her research workflow](http://meredith.wolfwater.com/wordpress/2011/12/11/lifting-the-veil-on-my-system/) over at [Information Wants to Be Free](http://meredith.wolfwater.com/wordpress/). My research needs are a little different now that I am no longer working in an academic library. When I had access to scholarly databases everyday from my desktop, I was reading the literature far more regularly than I do now, and in a more systematic way. I was writing for publication more then, too. Yet with a major project coming to the end of its first stage next year, there will be a lot of writing to do on methods, impact, and results for a variety of publications. To get prepared, like Meredith I've been working on systems and processes to do this in an efficient way.

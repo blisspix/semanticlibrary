@@ -6,8 +6,7 @@ layout: post
 slug: radical-recommendations-thinking-out-loud
 title: 'Radical recommendations: thinking out loud'
 wordpress_id: 112
-categories:
-- linked data
+
 ---
 
 Last night I was watching a few news clips on the BBC News website, and at the end of each video was links to "more like this". I made a comment on Twitter:

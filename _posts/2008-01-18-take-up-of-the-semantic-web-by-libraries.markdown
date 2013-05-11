@@ -6,8 +6,7 @@ layout: post
 slug: take-up-of-the-semantic-web-by-libraries
 title: Take up of the semantic web by libraries
 wordpress_id: 14
-categories:
-- semantic web
+
 ---
 
 Stephen Abram has a short post today about the [semantic web](http://stephenslighthouse.sirsidynix.com/archives/2008/02/semantic_web_we.html), linking to a post over at ReadWriteWeb. What is most interesting about this post though is not Stephen's post (sorry Stephen!) but the comment left below it by Mark Andews. In part, Andrew says -

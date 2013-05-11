@@ -6,8 +6,7 @@ layout: post
 slug: wikiprofessional-and-calais
 title: WikiProfessional and Calais
 wordpress_id: 27
-categories:
-- research
+
 ---
 
 ### WikiProfessional

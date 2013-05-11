@@ -7,9 +7,7 @@ slug: new-library-technology-report-understanding-the-semantic-web-bibliographic
 title: 'New Library Technology Report: Understanding the Semantic Web: Bibliographic
   Data and Metadata'
 wordpress_id: 1440
-categories:
-- metadata
-- semantic web
+
 ---
 
 A clear indication that concept of semantic web and libraries is moving into the mainstream - ALA's Library Technology Reports is publishing [Understanding the Semantic Web: Bibliographic Data and Metadata](http://www.alatechsource.org/library-technology-reports/understanding-the-semantic-web-bibliographic-data-and-metadata) by [Karen Coyle](http://kcoyle.blogspot.com/):

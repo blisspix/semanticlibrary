@@ -6,8 +6,7 @@ layout: post
 slug: the-sustainable-web
 title: The Sustainable Web
 wordpress_id: 36
-categories:
-- semantic web
+
 ---
 
 Web sites and applications burst on the scene out of nowhere, attract massive usage and undergo continual improvements to make them better. We wonder how we ever got along without them, until they get bought out, put up access or paywalls, or just disappear.

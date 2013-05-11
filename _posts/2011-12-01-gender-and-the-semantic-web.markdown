@@ -6,10 +6,7 @@ layout: post
 slug: gender-and-the-semantic-web
 title: Gender and the semantic web
 wordpress_id: 1475
-categories:
-- conferences
-- libraries
-- semantic web
+
 ---
 
 > Not including cancelled talks, 100%ofall #swib11 speakers are male with ~1/3 female participants Congrats to #gender #fail :-( via @nichtich

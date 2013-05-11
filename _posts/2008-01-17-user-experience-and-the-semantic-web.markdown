@@ -6,8 +6,7 @@ layout: post
 slug: user-experience-and-the-semantic-web
 title: User Experience and the Semantic Web
 wordpress_id: 40
-categories:
-- semantic web
+
 ---
 
 Libraries and their websites are becoming more user-centred. From wayfinding, to subject guides, to online services, a focus on user experience will help to make all library services more integrated and intuitive. When it comes to designing new services, such as those built upon the Semantic Web, it is more important than ever to ensure that the user is at the forefront of development. So often in the past amazing new technologies and services have been launched, but been frustrating to use. In addition to technical standards, there should be more consideration of user standards and needs when when considering "does anyone want this?" but more importantly "does anyone _need _this?'

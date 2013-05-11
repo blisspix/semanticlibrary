@@ -6,8 +6,7 @@ layout: post
 slug: ipod-touch-wifi-and-designing-for-diversity
 title: iPod Touch, wifi and designing for diversity
 wordpress_id: 121
-categories:
-- mobile web
+
 tags:
 - ipod
 - mobile

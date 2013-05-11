@@ -6,8 +6,7 @@ layout: post
 slug: a-database-of-data
 title: A database of data
 wordpress_id: 37
-categories:
-- databases
+
 ---
 
 Last week there was a flurry of comments around a post by Bret Taylor, [We need a Wikipedia for data](http://bret.appspot.com/entry/we-need-a-wikipedia-for-data).  Taylor describes a model for a wiki that would aggregate common data in one database that could be cross-searched. Great idea.

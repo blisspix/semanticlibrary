@@ -6,8 +6,7 @@ layout: post
 slug: looking-over-the-mountain-yahoo-indexes-semantic-web-and-microformats
 title: 'Looking over the mountain: Yahoo indexes semantic web and Microformats'
 wordpress_id: 29
-categories:
-- tools
+
 tags:
 - Firefox
 - Operator

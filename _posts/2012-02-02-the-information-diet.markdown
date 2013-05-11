@@ -6,9 +6,6 @@ layout: post
 slug: the-information-diet
 title: The Information Diet
 wordpress_id: 1503
-categories:
-- libraries
-- public libraries
 ---
 
 Last weekend, I read [The Information Diet](http://www.informationdiet.com/) by Clay Johnson. These days before I buy almost anything from a book to a vacuum cleaner I check online reviews. Reviews for this book were [mixed](http://www.amazon.com/Information-Diet-Case-Conscious-Consumption/dp/1449304680/ref=sr_1_1?ie=UTF8&qid=1328189260&sr=8-1), but positive enough for me to buy it. I needed something new on media bias and a reminder to not be sucked into so much mindless surfing.

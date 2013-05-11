@@ -6,8 +6,7 @@ layout: post
 slug: current-and-upcoming-events-and-conferences
 title: Current and upcoming events and conferences
 wordpress_id: 12
-categories:
-- events
+
 ---
 
 It's hard to tell where conference season begins and ends these days. Just about every week there's a conference somewhere that may be of interest to those working on the mobile or semantic web. While as yet there aren't many exclusively-semantic events, there will be parts of the programme of other events that will cover related topics. Here's a few upcoming events:

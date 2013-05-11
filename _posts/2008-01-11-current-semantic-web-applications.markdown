@@ -6,8 +6,7 @@ layout: post
 slug: current-semantic-web-applications
 title: Current semantic web applications
 wordpress_id: 11
-categories:
-- search
+
 ---
 
 If there was any doubt that libraries belong in semantic web development, check out these two examples of the semantic web applications that are emerging. The majority of applications available right now (or in preview/beta) focus on information management and search. Sounds like our business to me. With 2008 predicted by some as the [year of the semantic web](http://www.readwriteweb.com/archives/2008_web_predictions.php), the time for libraries to take a closer look is now.

@@ -6,8 +6,7 @@ layout: post
 slug: when-and-how-to-learn-about-the-semantic-web
 title: When and how to learn about the Semantic Web
 wordpress_id: 9
-categories:
-- learning
+
 ---
 
 Via [Cataloging Futures](http://http://www.catalogingfutures.com/catalogingfutures/2008/02/lis-education-a.html), a post from [Allan Cho](http://allanslibrary.blogspot.com/) about the how and when of [learning new skills for digital librarianship](http://allanslibrary.blogspot.com/2008/01/future-of-digital-librarians.html):

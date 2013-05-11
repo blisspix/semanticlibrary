@@ -6,8 +6,6 @@ layout: post
 slug: a-cut-too-far
 title: A cut too far?
 wordpress_id: 1588
-categories:
-- libraries
 ---
 
 Libraries are taking on all sorts of new services - makerspaces, crafts, services for the unemployed, small business meeting zones, expanded training, gaming, you name it - some library somewhere has probably done it.

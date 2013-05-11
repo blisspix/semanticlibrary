@@ -6,8 +6,7 @@ layout: post
 slug: fitter-happier-more-productive
 title: Fitter, happier, more productive
 wordpress_id: 1461
-categories:
-- tools
+
 tags:
 - productivity
 ---

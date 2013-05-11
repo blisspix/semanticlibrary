@@ -6,8 +6,7 @@ layout: post
 slug: the-future-of-public-libraries-local-connected-innovative
 title: The future of public libraries - local, connected, innovative
 wordpress_id: 1443
-categories:
-- public libraries
+
 ---
 
 A diversion, if I may. Well, perhaps not a diversion, since this is a post about meaning, and the semantic web is all about that. But I want to step back from technology for a moment to consider the public library. In recent years, I've been following public libraries more and more closely as this is where a lot of the innovation in our profession is coming from. They are leading with user-centred design, responding to changing user needs, and capitalising on their location. I had a good conversation recently with some colleagues about the importance of local in the public library, which I was sceptical of at first but having just watched a typical [Paxman grilling on Newsnight over the future of public libraries](http://communities.cilip.org.uk/blogs/cesdesk/archive/2010/03/15/paxo-scoops-library-review.aspx) (alas, [iPlayer link only available in the UK](http://bbc.co.uk/i/rkfhy/?t=21m26s)) I think if we change our notion of what it means to be local, public libraries could have a major role for decades, if not centuries to come.

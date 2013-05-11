@@ -6,8 +6,7 @@ layout: post
 slug: the-importance-of-the-mobile-web
 title: The importance of the mobile web
 wordpress_id: 38
-categories:
-- mobile web
+
 ---
 
 Most of us have one, but other than texting, calls and primitive PDA functions for smartphone users, what can you do with your phone? Is the mobile web going to take off or be used only by those with a large enough screen and 3G connection? Recently, there has been [debate about the future of the mobile web](http://www.readwriteweb.com/archives/is_the_mobile_web_dead.php#comments), most feel that development of mobile-only sites will fall by the wayside while standards-compliant, flexible sites that can be used on any device will become more popular. I'm betting on the latter.

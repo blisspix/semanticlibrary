@@ -6,8 +6,7 @@ layout: post
 slug: happy-open-access-day
 title: Happy Open Access Day!
 wordpress_id: 84
-categories:
-- research
+
 tags:
 - OA
 - open access day

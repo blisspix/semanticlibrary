@@ -6,8 +6,7 @@ layout: post
 slug: why-what-i-didnt-learn-in-library-school-doesnt-really-matter-with-a-caveat
 title: Why “What I didn’t learn in library school” doesn’t really matter, with a caveat
 wordpress_id: 1485
-categories:
-- learning
+
 ---
 
 Librarians are very good at making lists, especially of all the things that[ we did not learn at library school](http://www.google.co.uk/search?client=safari&rls=en&q=what+I+didn't+learn+in+library+school&ie=UTF-8&oe=UTF-8&redir_esc=&ei=nHHoTqPzCYL_-ga6k4XSCg).

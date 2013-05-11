@@ -6,8 +6,7 @@ layout: post
 slug: seen-and-heard-recent-news
 title: 'Seen and heard: Recent news'
 wordpress_id: 62
-categories:
-- reading notes
+
 ---
 
 A few bookmarks while I was conferencing and traveling:

@@ -6,8 +6,6 @@ layout: post
 slug: sopa-pipa-and-the-business
 title: 'SOPA, PIPA and The Business '
 wordpress_id: 1497
-categories:
-- copyright
 tags:
 - hollywood
 - pipa

@@ -6,8 +6,7 @@ layout: post
 slug: my-interest-in-the-semantic-web-and-libraries
 title: My interest in the Semantic Web and Libraries
 wordpress_id: 34
-categories:
-- semantic web
+
 ---
 
 If you are finding your way to the blog via the [Talking with Talis podcast](http://blogs.talis.com/panlibus/archives/2008/03/fiona_bradley_t_1.php), hello! I wanted to expand on why I am interested in the Semantic Web as I only briefly touched on this in the podcast.

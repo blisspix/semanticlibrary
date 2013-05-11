@@ -6,8 +6,7 @@ layout: post
 slug: world-wide-web-foundation-announced
 title: World Wide Web Foundation announced
 wordpress_id: 70
-categories:
-- accessibility
+
 ---
 
 Of late I've been updating an article on Access to Knowledge and the impact of policy and governance on access to scholarly information online. As I mentioned on [my post about Web 3.0 a few months ago](http://www.semanticlibrary.net/2008/04/28/web-30-just-around-the-corner/), I think it is important to develop a focus on enabling access. We can have all the semantic web standards and applications we want, but if access is hindered, the benefit of these tools and services cannot be fully realised. Access may be difficult for many reasons - cultural, technical (bandwidth, availability of web-enabled devices, filtering), legal, physical (special needs, requiring assistive technologies) or due to cost. It is important for those developing the semantic web, and any type of web resource, to keep these restrictions in mind, though there is no easy way to cater for them all. Libraries are interested in these issues because we have the infrastructure on the ground in a lot of places and IFLA has done a lot of [work on access projects](http://www.ifla.org/VI/1/alp.htm) and [developing guidelines and training about the use of the Internet](http://www.ifla.org/faife/news/learning_materials_workshops.htm).

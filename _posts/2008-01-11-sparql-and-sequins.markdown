@@ -6,8 +6,7 @@ layout: post
 slug: sparql-and-sequins
 title: SPARQL and Sequins
 wordpress_id: 10
-categories:
-- semantic web
+
 ---
 
 The W3C recently took the wraps off a new query language for the Semantic Web, [SPARQL](http://www.w3.org/TR/rdf-sparql-query/). According to Computer World, this should [give the Semantic Web a big push forward](http://www.computerworld.com/action/article.do?command=viewArticleBasic&taxonomyId=11&articleId=9057520&intsrc=hm_topic). According to the article,

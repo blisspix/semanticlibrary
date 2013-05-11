@@ -6,8 +6,7 @@ layout: post
 slug: web-credibility-and-the-semantic-web
 title: Web credibility and the Semantic Web
 wordpress_id: 75
-categories:
-- semantic web
+
 tags:
 - credibility
 - research

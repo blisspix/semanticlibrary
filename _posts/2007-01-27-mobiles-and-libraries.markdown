@@ -6,8 +6,7 @@ layout: post
 slug: mobiles-and-libraries
 title: Mobiles and libraries
 wordpress_id: 5
-categories:
-- semantic web
+
 tags:
 - mobile web
 ---

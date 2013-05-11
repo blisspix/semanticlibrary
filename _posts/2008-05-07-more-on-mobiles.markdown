@@ -6,8 +6,7 @@ layout: post
 slug: more-on-mobiles
 title: More on mobiles
 wordpress_id: 44
-categories:
-- standards
+
 ---
 
 I've written previously about the [importance of the mobile web](http://www.semanticlibrary.net/2008/04/17/the-importance-of-the-mobile-web/) and the role of [mobiles in social change](http://www.semanticlibrary.net/2008/03/11/the-semantic-web-and-social-change/). Now the [United Nations Foundation](http://www.unfoundation.org/) (with Vodafone) has released a [report on the use of mobiles by relief, advocacy, and development organisations](http://www.readwriteweb.com/archives/report_mobile_activism_on_the_rise.php) (via Read/Write Web, [Report: 'Mobile Activism' on the Rise](http://www.readwriteweb.com/archives/report_mobile_activism_on_the_rise.php)).

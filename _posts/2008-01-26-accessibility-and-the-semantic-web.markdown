@@ -6,8 +6,7 @@ layout: post
 slug: accessibility-and-the-semantic-web
 title: Accessibility and the Semantic Web
 wordpress_id: 32
-categories:
-- semantic web
+
 tags:
 - accessibility
 - BBC

@@ -6,8 +6,7 @@ layout: post
 slug: linked-data-and-libraries
 title: Linked Data and libraries
 wordpress_id: 110
-categories:
-- linked data
+
 ---
 
 I've spent the past few months completely absorbed by the catalogue as we built a new interface. It's been exciting and frustrating all at once to get to grips with the possibilities of what we can do with the concept of a catalogue, and what options there are now to expand it (and what options aren't yet there) and make it more relevant for library users. If you're not already a subscriber, an email list I recommend is [NGC4LIB](http://www.lsoft.com/scripts/wl.exe?SL1=NGC4LIB&H=LISTSERV.ND.EDU), the mailing list that discusses ideas about the future of the catalogue as well as some of the software options out there.

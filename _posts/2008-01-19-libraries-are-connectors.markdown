@@ -6,8 +6,7 @@ layout: post
 slug: libraries-are-connectors
 title: Libraries are connectors
 wordpress_id: 30
-categories:
-- semantic web
+
 ---
 
 [Dean Guistini](http://weblogs.elearning.ubc.ca/googlescholar/archives/045478.html) at [UBC Academic Search](http://weblogs.elearning.ubc.ca/googlescholar/) explains why libraries have a role in the Semantic Web:

@@ -6,8 +6,7 @@ layout: post
 slug: posts-about-the-semantic-web-on-library-blogs-in-2008
 title: Posts about the semantic web on library blogs in 2008
 wordpress_id: 15
-categories:
-- semantic web
+
 tags:
 - biblioblogosphere
 - RDA

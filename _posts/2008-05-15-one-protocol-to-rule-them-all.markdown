@@ -6,8 +6,7 @@ layout: post
 slug: one-protocol-to-rule-them-all
 title: One protocol to rule them all?
 wordpress_id: 45
-categories:
-- portability
+
 ---
 
 Data seems to be _the_ hot topic right now. It's all about how we store it, share it, and make it play nice with other data. There is an enthusiasm for openness and a move towards standardisation of data and the ways we share it, but there's a also a worrying trend - competing standards and protocols.

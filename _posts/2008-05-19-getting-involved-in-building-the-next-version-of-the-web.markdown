@@ -6,8 +6,7 @@ layout: post
 slug: getting-involved-in-building-the-next-version-of-the-web
 title: Getting involved in building the next version of the Web
 wordpress_id: 46
-categories:
-- standards
+
 ---
 
 I've mentioned a few initiatives and projects related to the development of Web 3.0/Semantic Web on this blog where librarians are, or could be, involved. But the big question is, how? Finding out how to get a seat at the table can sometimes be difficult. Here's a few ways to get involved no matter your level of expertise or location:[

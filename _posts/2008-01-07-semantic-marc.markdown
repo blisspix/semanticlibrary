@@ -6,8 +6,7 @@ layout: post
 slug: semantic-marc
 title: Semantic MARC
 wordpress_id: 7
-categories:
-- semantic web
+
 ---
 
 [Rob Styles](http://www.dynamicorange.com/blog/) and other members of the team at [Talis](http://www.talis.com/) [have put together a paper](http://www.dynamicorange.com/blog/archives/library-tech/marc_rdf_and_fr.html) on MARC, RDF and relationships in data, [Semantic Marc, MARC21 and The Semantic Web.](http://www.dynamicorange.com/blog/archives/Semantic%20Marcup.pdf) [PDF]

@@ -6,8 +6,7 @@ layout: post
 slug: one-post-primer-to-the-semantic-web
 title: One post primer to the Semantic Web
 wordpress_id: 33
-categories:
-- semantic web
+
 ---
 
 [Read/Write Web](http://www.readwriteweb.com/) has a great post on the Semantic Web which gives a brief primer on theory, technology, and applications. ["Semantic Web Patterns: A Guide to Semantic Technologies"](http://www.readwriteweb.com/archives/semantic_web_patterns.php) is a great introduction to what it's all about with plenty of links to explore. The article also discusses the different meanings of the Semantic Web and how different technologies support different interests -

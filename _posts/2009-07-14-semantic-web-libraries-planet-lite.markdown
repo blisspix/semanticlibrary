@@ -6,8 +6,7 @@ layout: post
 slug: semantic-web-libraries-planet-lite
 title: Semantic Web and Libraries "Planet Lite"
 wordpress_id: 130
-categories:
-- semantic web
+
 tags:
 - mashup
 - pipes

@@ -6,8 +6,7 @@ layout: post
 slug: fundamental-skills-for-the-semantic-web-information-architecture
 title: 'Fundamental skills for the Semantic Web: Information Architecture'
 wordpress_id: 58
-categories:
-- learning
+
 tags:
 - information architecture
 ---

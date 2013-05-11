@@ -6,10 +6,7 @@ layout: post
 slug: more-library-futurism-my-one-post-in-30-days
 title: 'More library futurism: my one post in 30 days'
 wordpress_id: 1451
-categories:
-- data
-- linked data
-- public libraries
+
 ---
 
 As someone who no longer works in a library (but for libraries), I feel that I've had more space than ever in the last year to think about the future of libraries, removed from the daily grind of library work. Irony, much? This month, there's been an absolute flurry of content by Australian library bloggers who are completing a [30 blog posts in 30 days challenge](http://librariesinteract.info/2010/06/01/30-blog-posts-in-30-days-challenge/). Not something I could contemplate with much of my June to be offline, but they've inspired me to post some of my thoughts after reading their posts.

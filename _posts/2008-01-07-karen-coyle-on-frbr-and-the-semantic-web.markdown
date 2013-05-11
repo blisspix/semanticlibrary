@@ -6,8 +6,7 @@ layout: post
 slug: karen-coyle-on-frbr-and-the-semantic-web
 title: Karen Coyle on FRBR and the Semantic Web
 wordpress_id: 24
-categories:
-- semantic web
+
 ---
 
 [Karen Coyle](http://www.kcoyle.net/) [answers the four FRBR questions](http://www.frbr.org/2008/03/07/four-frbr-questions-karen-coyle) and says,

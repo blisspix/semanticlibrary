@@ -6,8 +6,7 @@ layout: post
 slug: information-visualisation-and-data-a-music-example
 title: 'Information visualisation and data: A music example'
 wordpress_id: 101
-categories:
-- data
+
 ---
 
 Regular blogging will resume soon, but in the meantime, something completely different.

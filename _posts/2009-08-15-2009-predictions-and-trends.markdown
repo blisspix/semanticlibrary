@@ -6,8 +6,7 @@ layout: post
 slug: 2009-predictions-and-trends
 title: 2009 Predictions and Trends
 wordpress_id: 105
-categories:
-- semantic web
+
 tags:
 - trends
 ---

@@ -6,8 +6,7 @@ layout: post
 slug: social-data-on-the-web-workshop-and-semantic-web-conference
 title: Social Data on the Web Workshop and Semantic Web Conference
 wordpress_id: 54
-categories:
-- conferences
+
 ---
 
 Two very exciting events being held this October in Germany:

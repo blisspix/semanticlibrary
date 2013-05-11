@@ -6,8 +6,7 @@ layout: post
 slug: new-xml-conversion-tool-lemon8-xml
 title: New XML conversion tool - Lemon8-XML
 wordpress_id: 94
-categories:
-- xml
+
 tags:
 - pkp
 - xml

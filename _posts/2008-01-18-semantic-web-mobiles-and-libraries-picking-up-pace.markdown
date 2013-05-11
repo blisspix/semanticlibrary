@@ -6,8 +6,7 @@ layout: post
 slug: semantic-web-mobiles-and-libraries-picking-up-pace
 title: Semantic Web, mobiles and libraries picking up pace
 wordpress_id: 52
-categories:
-- semantic web
+
 tags:
 - ala2008
 ---

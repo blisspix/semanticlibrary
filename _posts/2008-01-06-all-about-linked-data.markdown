@@ -6,8 +6,7 @@ layout: post
 slug: all-about-linked-data
 title: 'All about: Linked Data'
 wordpress_id: 21
-categories:
-- concepts
+
 tags:
 - linked data
 ---

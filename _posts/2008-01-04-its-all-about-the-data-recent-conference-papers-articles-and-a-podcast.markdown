@@ -6,8 +6,7 @@ layout: post
 slug: its-all-about-the-data-recent-conference-papers-articles-and-a-podcast
 title: 'It''s all about the data: Recent conference papers, articles and a podcast'
 wordpress_id: 50
-categories:
-- web 3.0
+
 ---
 
 The frequency of articles, blog posts and comments about the intersection of the Semantic Web and libraries is steadily increasing! Here are a few recent items -

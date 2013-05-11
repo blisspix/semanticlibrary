@@ -6,8 +6,6 @@ layout: post
 slug: what-is-the-semantic-web
 title: What is the Semantic Web?
 wordpress_id: 6
-categories:
-- semantic web
 ---
 
 Before we can work out what the Semantic Library might be all about, we need to look at the Semantic Web.

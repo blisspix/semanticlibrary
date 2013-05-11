@@ -6,8 +6,6 @@ layout: post
 slug: ear-to-the-ground
 title: Ear to the ground
 wordpress_id: 1521
-categories:
-- research
 tags:
 - bsla
 - cameroon

@@ -6,8 +6,7 @@ layout: post
 slug: reading-notes-web-30-and-health-librarians
 title: 'Reading Notes: Web 3.0 and Health Librarians'
 wordpress_id: 42
-categories:
-- web 3.0
+
 tags:
 - BPR3
 - health libraries

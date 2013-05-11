@@ -6,9 +6,6 @@ layout: post
 slug: hacking-chartership
 title: 'Hacking #chartership'
 wordpress_id: 1515
-categories:
-- learning
-- tools
 ---
 
 Many library associations have professional development schemes, recognising ongoing learning, training and engagement with the broader profession. I've been a member of two of these schemes - [ALIA's Professional Development scheme](http://www.alia.org.au/education/pd/#PDScheme) and [Chartership in CILIP](http://www.cilip.org.uk/jobs-careers/qualifications/cilip-qualifications/chartership/pages/chartershipintro.aspx). Chartership is a peculiarly British concept, where most professions here are required to demonstrate ongoing compliance and development. It is a rather formal scheme, especially compared with Australia, and requires candidates to submit detailed portfolios and reflections on their work and activities.

@@ -6,8 +6,7 @@ layout: post
 slug: experiments-in-findability
 title: Experiments in findability
 wordpress_id: 8
-categories:
-- libraries
+
 ---
 
 .!.

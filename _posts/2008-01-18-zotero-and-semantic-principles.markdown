@@ -6,8 +6,7 @@ layout: post
 slug: zotero-and-semantic-principles
 title: Zotero and semantic principles
 wordpress_id: 53
-categories:
-- semantic web
+
 ---
 
 Via [ACM TechNews](http://technews.acm.org/), [HPCwire](http://www.hpcwire.com/) [reports on the semantic metadata underpinning Zotero](http://www.zotero.org/), the free, Firefox-based bibliographic management tool that more and more of us in libraries are using and recommending to our clients. One of the developers, Daniel Cohen says,

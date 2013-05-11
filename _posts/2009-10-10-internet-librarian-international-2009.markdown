@@ -6,8 +6,7 @@ layout: post
 slug: internet-librarian-international-2009
 title: Internet Librarian International 2009
 wordpress_id: 140
-categories:
-- linked data
+
 tags:
 - ili2009
 ---

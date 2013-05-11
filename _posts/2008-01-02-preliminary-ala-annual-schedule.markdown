@@ -6,8 +6,7 @@ layout: post
 slug: preliminary-ala-annual-schedule
 title: Preliminary ALA Annual Schedule
 wordpress_id: 49
-categories:
-- conferences
+
 ---
 
 Later this month, I will be attending [ALA Annual](http://www.ala.org/annual/) in Anaheim. Below is my preliminary schedule. As you can see, I have lots of free time so far!

@@ -6,8 +6,7 @@ layout: post
 slug: the-semantic-web-and-social-change
 title: The Semantic Web and social change
 wordpress_id: 25
-categories:
-- semantic web
+
 ---
 
 Underlying the technology, the standards, the markup, the startups, there has to be a strong sense of purpose behind websites and web projects for them to be successful and used. For libraries, in the past that was putting the catalogue online, now it's making the [catalogue and its data open](http://kcoyle.blogspot.com/2008/02/libraries-open.html). For bloggers, it's dissemination of ideas, and for others, building a [community of practice](http://www.valaconf.org.au/vala2008/papers2008/106_Bradley_Final.pdf) [PDF].

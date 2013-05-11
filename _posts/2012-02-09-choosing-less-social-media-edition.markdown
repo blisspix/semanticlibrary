@@ -6,8 +6,6 @@ layout: post
 slug: choosing-less-social-media-edition
 title: 'Choosing Less: Social Media Edition'
 wordpress_id: 1506
-categories:
-- tools
 tags:
 - chartership
 - social media

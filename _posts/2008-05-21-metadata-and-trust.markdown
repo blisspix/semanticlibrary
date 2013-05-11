@@ -6,8 +6,7 @@ layout: post
 slug: metadata-and-trust
 title: Metadata and trust
 wordpress_id: 47
-categories:
-- xml
+
 ---
 
 Journalism.co.uk (Via [ACM TechNews](http://technews.acm.org)) is reporting that Sir Tim Berners-Lee and the [Media Standards Trust](http://www.mediastandardstrust.org/home.aspx)  in the UK have won a major grant to develop a metadata system to improve search and trust in news information -

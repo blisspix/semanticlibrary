@@ -6,8 +6,6 @@ layout: post
 slug: making-the-most-of-meatspace
 title: Making the most of Meatspace
 wordpress_id: 1512
-categories:
-- conferences
 ---
 
 Kathryn Greenhill has a solid post over at Librarians Matter on [getting the most out of in-person conferences](http://librariansmatter.com/blog/2012/02/12/getting-the-most-out-of-an-in-person-professional-conference/). To my mind, there's a need and space for big conferences (which help sustain organisations, and which provide publishing opportunities for professionals), and room for a myriad of other professional events. In librarianship, there are a already number of large annual and biennial conferences (organised by libray associations, Information Today, etc), camps (Libcampoz, NPSIG camp, Mashed Library), hybrid conferences (NextLibrary) one off seminars and events, online conferences (Handheld Librarian, Library 2.0), webinars, specialist conferences on any number of topics, and on and on and on. There is no lack of choice about where to spend your professional development time and money.

@@ -6,8 +6,7 @@ layout: post
 slug: twine-first-impressions
 title: 'Twine: First impressions'
 wordpress_id: 31
-categories:
-- tools
+
 tags:
 - Twine
 ---

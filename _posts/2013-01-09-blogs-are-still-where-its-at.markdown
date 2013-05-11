@@ -6,10 +6,6 @@ layout: post
 slug: blogs-are-still-where-its-at
 title: Blogs are still where it's at
 wordpress_id: 1586
-categories:
-- learning
-- libraries
-- research
 ---
 
 After the pins, tweets, status updates, vlogs and life journals, it seems that blogs are still the place to be. [Harvard Business Review Blog](http://blogs.hbr.org/cs/2012/12/if_youre_serious_about_ideas_g.html) argues that many blogs have as much credibility as their print counterparts, citing a blog authored by a New York Times journalist, and [The World Bank](http://blogs.worldbank.org/), where researchers can use some staff time to blog.

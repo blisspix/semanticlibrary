@@ -6,8 +6,7 @@ layout: post
 slug: read-all-about-it-articles-in-lis-about-the-semantic-web
 title: 'Read all about it: Articles in LIS about the semantic web'
 wordpress_id: 20
-categories:
-- semantic web
+
 ---
 
 So who's writing about the semantic web in LIS, and what are they writing? I plan to take a look at that through a series of Reading Notes posts. I hope to try out the [Blogging on Peer Review Research](http://bpr3.org/) (BPR3) way of blogging about scholarly articles.

@@ -6,8 +6,7 @@ layout: post
 slug: when-the-url-breaks-the-difficulty-of-changing-identities-online
 title: 'When the URL breaks: The difficulty of changing identities online'
 wordpress_id: 132
-categories:
-- findability
+
 ---
 
 [Cool URIs don't change](http://www.w3.org/Provider/Style/URI), right? But uncool URLs certainly do. For over 7 years, I blogged at [blisspix.net](http://www.blisspix.net) and as was the way at the time, my URL was both a handle and identity. Whenever I signed up for a new service, my username was always blisspix. Lately, this has become less popular. I've noticed a sharp trend towards using real names, whether on Twitter (where I'd estimate well more than half of those I follow use their real name or some version of it) and Facebook, where many I know who chose a vanity URL chose their own name, myself included. The concept of handles and nicks seems to be dying off. I'm glad I didn't keep using handles from the IRC and chat days of my youth, but blisspix was not much of an improvement and finally, it is time for it to go.  I would be interested to hear if anyone has researched this change.

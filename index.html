@@ -4,13 +4,11 @@ title: Semantic Library
 ---
 
 <div>
-<ul>
-    {% for post in site.posts limit:4 %}
-    <li> <span>{{ post.date | date_to_string }}</span> 
-	<h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4></li>
+{% for post in site.posts limit:4 %}
+<span>{{ post.date | date_to_string }}</span> 
+	<h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
     <p>{{ post.content | strip_html | truncatewords:150}}</p>
             <a href="{{ post.url }}">Read more...</a><br />
     {% endfor %}
 </hr />
-</ul>
 </div>

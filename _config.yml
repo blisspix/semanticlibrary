@@ -1,5 +1,5 @@
 name: Semantic Library
 pygments: true
-permalinks: /semanticlibrary/:year/:month/:day/:title.html
+permalinks: /:year/:month/:day/:title.html
 description: Data meaning content
 url: http://blisspix.github.io/semanticlibrary/

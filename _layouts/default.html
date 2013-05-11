@@ -26,10 +26,10 @@
 					{{ content }}
 					
 					<div> {% if page.previous.url %} 
-					«&nbsp;<a href="{{ page.previous.url }}/{site.baseurl}}" rel="previous" title="{{ page.previous.title }}">
+					«&nbsp;<a href="/{{ page.previous.url }}/" rel="previous" title="{{ page.previous.title }}">
 					{{ page.previous.title | truncatewords: 15 }}</a>{% endif %} | 
 					{% if page.next.url %} 
-					<a href="{{ page.next.url }}/{site.baseurl}}" rel="next" title="{{ page.next.title }}">
+					<a href="/{{ page.next.url }}/" rel="next" title="{{ page.next.title }}">
 					{{ page.next.title | truncatewords: 15 }}</a>&nbsp;» 
 					{% endif %} 
 					</div>

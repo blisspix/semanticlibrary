@@ -1,0 +1,15 @@
+---
+author: Fiona
+comments: true
+date: 2009-05-10 16:23:02
+layout: post
+slug: occupied
+title: Occupied
+wordpress_id: 117
+---
+
+The blog may have been quiet of late, but there has been a great deal happening out there. From linked data developments (especially at the Library of Congress) to some great new mobile tools, it's been a busy couple of months.
+
+Regular blogging on these developments and others will resume in the next couple of weeks, as I've been otherwise occupied by a move to London. I will leave Australia (again, I moved back in August last year) next week. I'm thrilled that the timing means I will be able to attend [Mash Oop North](http://mashedlibrary.ning.com/)  in early July and will report back on that event here.
+
+Amusingly enough, what has occupied quite a bit of my attention in the move is working out what to do for broadband and mobile service. I have been debating the pros and cons of buying an iPhone, or a netbook, European data roaming and mobile broadband. I have decided to be sensible and stick with my current hardware, but a lazyweb question if I may. Does anyone know of a good provider for mobile broadband roaming across Europe? Something like Vodafone Passport for broadband?

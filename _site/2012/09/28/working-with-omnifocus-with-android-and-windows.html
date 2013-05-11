@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Working with OmniFocus with Android and Windows</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		    <!-- Bootstrap -->
+		    <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+			<link href="/css/bootstrap-responsive.css" rel="stylesheet">
+
+    </head>
+    <body>
+        <div class="container">
+			<div class="masthead">
+				<ul class="nav nav-pills pull-right">
+				          <li class="active"><a href="/index.html">Home</a></li>
+				          <li><a href="/about/index.html">About</a></li>
+				          <li><a href="/about/index.html">Contact</a></li>
+				        </ul>
+				        <h3 class="brand"><a href="/index.html">Semantic Library</a></h3>
+			</div>
+			
+			<div class="row">
+				<div class="span9">
+					<h2>Working with OmniFocus with Android and Windows</h2>
+<p class="meta">28 Sep 2012</p>
+
+<div id="post">
+<p><a href='http://www.omnigroup.com/products/omnifocus/'>OmniFocus</a> is my to-do app of choice, however it&#8217;s Mac-only. I often have to use a Windows PC and I own an Android phone. Here are some solutions for working with OmniFocus when I am away from my Mac or iPad:</p>
+
+<h2 id='capture'>Capture</h2>
+
+<p><strong>1. Email on a PC</strong></p>
+
+<p>I&#8217;ve set up OmniFocus so that emails appended with mygmailname+omnifocus@gmail.com are automatically captured into my inbox. <a href='http://www.macstories.net/stories/alternative-ways-to-add-actions-into-omnifocus/'>MacStories describes how to do this</a> in more detail.</p>
+
+<p><strong>2. Mobile capture on Android</strong></p>
+
+<p>When I&#8217;m away from my Mac or a computer, and I only have my phone, I set up <a href='https://play.google.com/store/apps/details?id=com.mijoro.jotter&amp;hl=en'>Jotter</a> (Android, Free), an app for emailing reminders and to-dos which sends messages to the same address.</p>
+
+<h2 id='working_actions'>Working actions</h2>
+
+<p>The most difficult part of working with OmniFocus away from the Mac is getting a tidy list of actions and projects. There is no web interface for OmniFocus, and most existing scripts focus on how to export into other iOS or Mac apps like Taskpaper. Not so useful on Windows. However, OmniFocus can export to HTML.</p>
+
+<ol>
+<li>
+<p>I set up a perspective &#8220;Forecast&#8221; which shows all my actions with a due date. It&#8217;s similar to the Forecast perspective on the iPad, but without calendar integration.</p>
+</li>
+
+<li>
+<p>Next, Automator. Create a new app. From utilities choose &#8216;Run AppleScript&#8221;. Here&#8217;s my script (<a href='http://old.newformula.org/applescript-exporting-omnifocus-perspective-to-html/'>in part based on this</a>):</p>
+
+<p>on run {input, parameters}</p>
+
+<p>    set taskList to &#8221;&#8221;     tell application &#8220;OmniFocus&#8221;         tell the default document to tell the front document window             set perspective name to &#8220;Forecast&#8221;             save in &#8220;Users:myusername:Dropbox:omnidaily&#8221; as &#8220;HTML&#8221;         end tell     end tell     return taskList</p>
+
+<p>    return input end run</p>
+</li>
+</ol>
+
+<p>Whenever I run this script, Automator creates a HTML file from the perspective Forecast in OmniFocus, and saves it in my Dropbox folder as omnidaily.html. I can then access it via Dropbox&#8217;s web interface, print it out, or open it on a Windows PC in the office.</p>
+
+<ol>
+<li>Save the app as a daily repeating task. <a href='http://www.sheepsystems.com/products/scheduleDailyTask/'>Schedule Daily Task</a> is a small app that does what it says: takes my Automator app and runs it according to my preferred schedule each day so that I have a fresh copy of my tasks each morning.</li>
+</ol>
+
+<h2 id='sync'>Sync</h2>
+
+<p>Unfortunately, changes from the HTML file won&#8217;t be synced back to OmniFocus, so the next step is manual: I enjoy crossing things off my list with a pen so at the end of each day or when I do my weekly review I match what&#8217;s been crossed off with OmniFocus on iPad or my Mac.</p>
+</div>
+
+					
+					<div>  
+					«&nbsp;<a href="/accessibility/mobile%20web/tools/2012/09/03/extending-the-life-of-personal-technology.html/" rel="previous" title="Extending the life of personal technology">
+					Extending the life of personal technology</a> | 
+					 
+					<a href="/2013/01/02/thinking-in-the-new-year.html/" rel="next" title="Thinking in the New Year">
+					Thinking in the New Year</a>&nbsp;» 
+					 
+					</div>
+				</div>	
+
+				<div class="span3">
+
+				<h4>Blog Posts</h4>
+			  <ul class="posts">
+			    
+			      <li><span>11 Apr 2013</span> &raquo; <a href="/2013/04/11/vip-librarian.html">VIP Librarian</a></li>
+			    
+			      <li><span>23 Jan 2013</span> &raquo; <a href="/2013/01/23/ik-leer-i-learn.html">Ik leer / I learn</a></li>
+			    
+			      <li><span>10 Jan 2013</span> &raquo; <a href="/libraries/2013/01/10/a-cut-too-far.html">A cut too far?</a></li>
+			    
+			      <li><span>09 Jan 2013</span> &raquo; <a href="/learning/libraries/research/2013/01/09/blogs-are-still-where-its-at.html">Blogs are still where it's at</a></li>
+			    
+			      <li><span>02 Jan 2013</span> &raquo; <a href="/2013/01/02/thinking-in-the-new-year.html">Thinking in the New Year</a></li>
+			    
+			      <li><span>28 Sep 2012</span> &raquo; <a href="/2012/09/28/working-with-omnifocus-with-android-and-windows.html">Working with OmniFocus with Android and Windows</a></li>
+			    
+			      <li><span>03 Sep 2012</span> &raquo; <a href="/accessibility/mobile%20web/tools/2012/09/03/extending-the-life-of-personal-technology.html">Extending the life of personal technology</a></li>
+			    
+			      <li><span>03 Sep 2012</span> &raquo; <a href="/2012/09/03/celebrating-ideas-with-the-paralympics.html">Celebrating ideas with the Paralympics</a></li>
+			    
+			      <li><span>31 Jul 2012</span> &raquo; <a href="/2012/07/31/the-games-this-librarians-perspectiv.html">The Games: This librarian's perspective</a></li>
+			    
+			      <li><span>25 Jun 2012</span> &raquo; <a href="/2012/06/25/workflow-an-update.html">Workflow: An Update</a></li>
+			    
+			      <li><span>16 Jun 2012</span> &raquo; <a href="/2012/06/16/race-around-the-world.html">Race around the world</a></li>
+			    
+			      <li><span>05 Jun 2012</span> &raquo; <a href="/2012/06/05/staying-focused.html">Staying focused</a></li>
+			    
+			      <li><span>24 May 2012</span> &raquo; <a href="/2012/05/24/all-change.html">All change</a></li>
+			    
+			      <li><span>18 May 2012</span> &raquo; <a href="/2012/05/18/unintended-consequences.html">Unintended consequences</a></li>
+			    
+			      <li><span>11 May 2012</span> &raquo; <a href="/2012/05/11/collaborative-librarianship-working-smarter.html">Collaborative librarianship: working smarter</a></li>
+			    
+			  </ul>
+				</div>
+			</div>
+			<hr />
+			
+
+
+            </div>
+
+        </div> <!-- /container -->
+
+		    <!-- Javascript -->
+		<script src="http://code.jquery.com/jquery.js"></script>
+		    <script src="js/bootstrap.min.js"></script>
+		
+    </body>
+</html>

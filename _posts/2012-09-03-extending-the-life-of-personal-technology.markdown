@@ -1,0 +1,27 @@
+---
+author: Fiona
+comments: true
+date: 2012-09-03 02:02:58
+layout: post
+slug: extending-the-life-of-personal-technology
+title: Extending the life of personal technology
+wordpress_id: 1570
+categories:
+- accessibility
+- mobile web
+- tools
+---
+
+A lot of my personal technology (desktop computer, laptop, mobile phone) is approaching end-of-life, at least according to the manufacturers. My laptop is not eligible for upgrade to OS 10.8 Mountain Lion, my phone stopped receiving updates almost as soon as I bought it, and other technology is generally slowing down. One of my criteria for purchasing technology is the expected lifespan. My previous iBook was still working perfectly when I sold it 6 years after purchase, but by then Apple had moved away from PPC. My old Nokia worked great but I switched to a smartphone when I bought an Android phone. Usually, software is the reason I have upgraded rather than any problems with the hardware. 
+
+The cycle of planned obsolescence seems to be continually shortening. There are few major hardware updates in today's new devices, particularly mobile devices, yet manufacturers drop support very quickly for old models and fail to push software updates to older devices. Yet, the [majority of Android devices are on 2.2 or 2.3](http://www.phonearena.com/news/Ice-Cream-Sandwich-installed-on-nearly-5-of-Android-devices_id29677) (the current version is 4.1). 
+
+Here, however, Android users have an advantage over other systems, if willing to void the warranty. Android at its core is [open source](http://source.android.com/). Built on top of this are a myriad of ROMs (operating systems) graphical launchers and other modifications. An ecosystem of tools, launchers and software provide you with all you need to customise your device from top to bottom, with the potential to vastly improve the user experience and extend the life of the device. 
+
+Unfortunately such customisation does come at a price, in time and expertise. It is not easy to wade through the [forums](http://forum.xda-developers.com/forumdisplay.php?f=564) to find information on how to root your phone, or how to install the right ROM. It can take a lot of time and error to get the setup right according to your needs. The average device owner will not have the patience, much as for many years the average PC owner was reluctant to switch from Windows to Linux until easy options like [Ubuntu](http://www.ubuntu.com/) came along. [Cyanogen](http://www.cyanogenmod.com/) is the most mature and easiest to install ROM at the moment, yet even that requires wading through instructions about cryptic and scary things like S-OFF. It strikes me that there could be a solid small business in providing training or installation services on installing custom ROMs to upgrade less-new hardware, especially in [emerging markets where phones sold off](http://www.envirofone.com/en-gb/what-happens) after contracts end usually end up (if they don't go straight to landfill). 
+
+A few months ago, I took the plunge and rooted my HTC Desire to overcome a problem with the internal memory which made it impossible to install more than a handful of applications. After a lot of futzing, I now have Cyanogen with Go Launcher Ex running which I have found to be a vast improvement over the stock HTC Sense ROM. I can now install nearly as many apps as I like, using Link2SD to move applications around (this is still my biggest frustration with the device - iPhones don't have this problem!). And I have recently started using [Tasker](http://tasker.dinglisch.net/) which I discovered from this great [Ask Metafilter post](http://ask.metafilter.com/223529/Why-is-a-brandnew-smartphone-worth-the-money). Tasker is a super handy app for doing things like launching my music player as soon as I plug in my headphones, turning on wifi when I am at home, turning up the brightness when I step outside, and silencing the phone when I turn it face down. 
+
+The only remaining issue I have yet to solve is how to integrate the phone with [OmniFocus](http://www.omnigroup.com/products/omnifocus/), which I use extensively. So far, I have solved capture by using [Jotter](https://play.google.com/store/apps/details?id=com.mijoro.jotter&hl=en) to email notes in. Getting my action items into Android (or out of mac, generally) remains unsolved. 
+
+Although all of these modifications have taken a lot of time, and I now have a warranty-voided phone, my hope is that this will extend the life of the phone by at least 1-2 more years. A longer lifecycle is better for the environment and my wallet. As librarians we should think about ways to support our communities to make the most of their technology, whatever they are able to own for themselves or to use at the library premises, and work with companies to support longer lifecycles, emerging markets, and cradle to cradle programmes as well as the latest and greatest gadgets. 
